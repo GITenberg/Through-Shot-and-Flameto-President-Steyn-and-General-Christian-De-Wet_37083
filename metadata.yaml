@@ -1,0 +1,32 @@
+_repo: Through-Shot-and-Flameto-President-Steyn-and-General-Christian-De-Wet_37083
+_version: 0.1.0
+alternative_title: Met de Boeren-commando's. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kestell, J. D. (John Daniel)
+    alias: Kestell, John Daniel
+    birthdate: 1854
+    deathdate: 1941
+    gutenberg_agent_id: '32747'
+    url: http://www.gutenberg.org/2009/agents/32747
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Personal narratives, Afrikaner'
+- !lcsh 'Afrikaners -- Biography'
+- !lcc 'DT'
+- !lcsh 'Kestell, J. D. (John Daniel), 1854-1941'
+- !lcsh 'Military chaplains -- South Africa -- Biography'
+title: "Through Shot and Flame\r\nThe Adventures and Experiences of J. D. Kestell\
+  \ Chaplain to President Steyn and General Christian De Wet"
+url: http://www.gutenberg.org/ebooks/37083
