@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32747'
     url: http://www.gutenberg.org/2009/agents/32747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37083#Through-Shot-and-Flameto-President-Steyn-and-General-Christian-De-Wet
 gutenberg_issued: '2011-08-14'
 gutenberg_type: Text
 identifiers:
